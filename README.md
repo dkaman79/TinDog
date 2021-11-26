@@ -1,3 +1,1 @@
-# TinDog
-It is just the skeleton of this web page........
-Many behaviours are yet to be added.
+TinDog Starting Files
